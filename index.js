@@ -6,10 +6,12 @@ function subtract(a, b) {
   return a - b
 }
 
-function makeMath() {
-  return f()
+function multiply(a, b) {
+  return a * b
 }
 
-function generateArithmetic(name, function) {
-  
+function divide(a, b) {
+  return a / b
 }
+
+funcon i
