@@ -6,4 +6,8 @@ function subtract(a, b) {
   return a - b
 }
 
+function makeMath() {
+  return f()
+}
+
 function makeOperation()
