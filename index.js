@@ -10,4 +10,6 @@ function makeMath() {
   return f()
 }
 
-function makeOperation()
+function generateArithmetic(name, function) {
+  
+}
